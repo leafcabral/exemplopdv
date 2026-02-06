@@ -1,3 +1,8 @@
+> ***⚠️ Repositório Arquivado:*** Esse projeto não será ativamente mantido.
+>
+> Esse repositório é *read-only*. Arquivado meses após a conclusão
+> e entrega do trabalho escolar.
+
 # Projeto Ponto de Venda - PDV em JAVA
 
 ## Atribuição
@@ -10,7 +15,7 @@ Trabalho apresentado à disciplina de Programação Orientada a Objetos II do Cu
 
 Orientador: Prof. Fernando Wencelewski Possenti
 
-## Aviso do autor original
+# Avisos do autor original
 Código fonte referente às video-aulas do youtube:
 
 * Parte 1: https://www.youtube.com/watch?v=W3ZoblmSXJo\&t=48s
